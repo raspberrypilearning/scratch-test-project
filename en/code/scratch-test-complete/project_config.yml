@@ -1,4 +1,4 @@
 name: "Scratch test complete"
 identifier: "Scratch test complete"
-type: 'scratch'
+type: 'code_editor_scratch'
 build: false
