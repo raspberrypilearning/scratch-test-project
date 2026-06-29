@@ -2,6 +2,7 @@ title: Scratch test project
 hero_image: images/banner.png
 description: A short description of the project
 listed: false
+landing: true
 pdf: false
 steps:
   - title: What you will make
