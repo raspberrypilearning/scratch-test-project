@@ -1,0 +1,4 @@
+name: "Scratch test project"
+identifier: "scratch-test-project"
+type: 'scratch'
+build: true
