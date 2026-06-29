@@ -1,4 +1,4 @@
 name: "Scratch test project"
 identifier: "scratch-test-project"
-type: 'scratch'
+type: 'code_editor_scratch'
 build: true
