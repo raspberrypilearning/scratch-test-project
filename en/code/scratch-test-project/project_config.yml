@@ -2,3 +2,5 @@ name: "Scratch test project"
 identifier: "scratch-test-project"
 type: 'code_editor_scratch'
 build: true
+
+
